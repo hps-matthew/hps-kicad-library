@@ -1,5 +1,7 @@
 #hps-kicad-library
 
+This library is a curated selection of parts for the HPS program.  The parts are modified from the library published at https://kicad.github.io/ are are thus shared under the same [license](LICENSE.md)
+
 The contents of the library directory are the following:
 
 - symbols    : Schematic symbols
