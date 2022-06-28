@@ -5560,7 +5560,7 @@
     (property "Value" "RotaryEncoder_Switch" (id 1) (at 0 -6.604 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at -3.81 4.064 0)
+    (property "Footprint" "footprints:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles" (id 2) (at -3.81 4.064 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 0 6.604 0)
