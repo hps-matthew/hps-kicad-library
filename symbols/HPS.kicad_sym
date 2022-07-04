@@ -6009,7 +6009,7 @@
     (property "Value" "SC56-11EWA" (id 1) (at 6.35 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Display_7Segment:Sx56-1xxxxx" (id 2) (at 0 -13.97 0)
+    (property "Footprint" "footprints:Sx56-1xxxxx" (id 2) (at 0 -13.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.kingbrightusa.com/images/catalog/SPEC/sc56-11ewa.pdf" (id 3) (at 0 0 0)
