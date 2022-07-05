@@ -3827,7 +3827,7 @@
     (property "Value" "L7805" (id 1) (at 0 3.175 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 0.635 -3.81 0)
+    (property "Footprint" "footprints:TO-252-2" (id 2) (at 0.635 -3.81 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf" (id 3) (at 0 -1.27 0)
