@@ -1,6 +1,6 @@
 (footprint "RotaryEncoder_TT_EN11-Switch_Vertical_H20mm_CircularMountingHoles" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62C75E90)
+  (tedit 62C7C61A)
   (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
   (tags "rotary encoder")
   (attr through_hole)
@@ -49,8 +49,8 @@
   (pad "C" thru_hole circle (at 0 2.5) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 28e5ab48-ddfb-4cca-a785-9cdfa4f825d3))
   (pad "S1" thru_hole circle (at 14.5 5) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 44ccd7f4-393c-4d00-b58a-41eb5033dd98))
   (pad "S2" thru_hole circle (at 14.5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 87f8f3ac-e784-4ffe-97a3-d8efbcca496c))
-  (model "${HPS3DMOD}/EN11-HSM1BF20--.STEP"
-    (offset (xyz 7.5 -2.5 6.2))
+  (model "${HPS3DMOD}/EN11-HSM1AF15--.STEP"
+    (offset (xyz 7.5 -2.5 0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))
   )
